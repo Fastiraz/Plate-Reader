@@ -40,8 +40,8 @@ def design():
 def connection(dbhost, dbname, dbuser, dbpasswd):
 
     config = {
-        "user": "leandre",
-        "password": "leandre",
+        "user": "",
+        "password": "",
         "host": "localhost",
         "port": 3306,
         "database": "plate"
