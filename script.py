@@ -34,7 +34,7 @@ def design():
     _  ____/_  / / /_/ // /_ /  __/     _  _, _//  __/ /_/ // /_/ / /  __/  /
     /_/     /_/  \__,_/ \__/ \___/      /_/ |_| \___/\__,_/ \__,_/  \___//_/
 
-                            Dev par Léandre Chanzy
+                            Dev by Fastiraz
     """)
 
 def connection(dbhost, dbname, dbuser, dbpasswd):
